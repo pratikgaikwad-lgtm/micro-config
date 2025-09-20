@@ -1,3 +1,7 @@
+spting:
+  application:
+      name: Config-Server
+
 eureka:
   instance:
     prefer-ip-address: true
